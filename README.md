@@ -1,4 +1,4 @@
-# Digital Assignment
+# Travellers Guide
 
 ### Student Details
 - **Name:** Jai Aditya Wadhavan  
